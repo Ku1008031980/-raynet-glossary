@@ -1,3 +1,4 @@
+#Mustafa Alperen ARMUTCUOĞLU
 # Raynet Junior Tech Glossary 
 tech_dictionary = { 
     "Docker": "A containerization platform that allows you to package and run applications in isolated environments with all their necessary dependencies.",
