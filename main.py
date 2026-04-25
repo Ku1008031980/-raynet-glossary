@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 #Mustafa Alperen ARMUTCUOĞLU
-=======
 #Kerem Uysal
->>>>>>> bc532553e37bd83370a4b1ac75fd0c0e02c49374
 # Raynet Junior Tech Glossary 
 tech_dictionary = { 
     "Docker": "A containerization platform that allows you to package and run applications in isolated environments with all their necessary dependencies.",
