@@ -1,9 +1,9 @@
 # Raynet Junior Tech Glossary 
 tech_dictionary = { 
-    "Örnek": "Örnek açıklama",
-    "C#": "Microsoft tarafindan gelistirilen, ozellikle uygulama ve oyun gelistirmede kullanilan modern bir programlama dilidir.",
-    "C++": "Bjarne Stroustrup tarafindan gelistirilen, yuksek performansli sistemler ve oyunlar icin kullanilan guclu bir programlama dilidir.",
-    "flutter": "Google tarafindan gelistirilen, tek kodla mobil, web ve masaustu uygulamalari yapmayi saglayan bir UI frameworkudur.",
+
+    "C#": "It is a modern programming language developed by Microsoft, especially used in application and game development.",
+    "C++": "It is a powerful programming language developed by Bjarne Stroustrup, used for high-performance systems and games.",
+    "flutter": "It is a UI framework developed by Google that enables building mobile, web, and desktop applications with a single codebase.",
 } 
 def list_terms(): 
     for term, desc in tech_dictionary.items(): 
